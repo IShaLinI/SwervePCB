@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "L7805CV")(type "KiCad")(uri "${KIPRJMOD}/Custom Parts/L7805CV.pretty")(options "")(descr ""))
+  (lib (name "teensy")(type "KiCad")(uri "${KIPRJMOD}/Custom Parts/teensy.pretty")(options "")(descr ""))
+  (lib (name "L298P")(type "KiCad")(uri "${KIPRJMOD}/Custom Parts/L298P")(options "")(descr ""))
+)
